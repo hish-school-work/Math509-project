@@ -28,6 +28,14 @@ This project aims to understand if the general feeling (sentiment) expressed in 
 
 We will use financial news articles and historical stock price data. The specific sources and how often we get the data will be decided later. We will choose data that allows us to see both quick reactions to news and longer-term trends.
 
+Find the Tweets.csv file at 
+
+##DataSource
+
+https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020
+
+
+
 ## Methodology
 
 We will first process the news articles to determine their sentiment (positive, negative, or neutral). Then, we will use this sentiment data along with historical stock prices to build our prediction models. We plan to use Bayesian inference techniques for this.
@@ -50,10 +58,6 @@ We will measure how well our models work by looking at metrics like AUC-ROC. Thi
 
 
 
-
-##DataSource
-
-https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020
 
 Instructions on how to run our code and use our model will be added here later.
 
