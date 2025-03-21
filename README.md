@@ -46,6 +46,15 @@ We will measure how well our models work by looking at metrics like AUC-ROC. Thi
 
 ## Usage
 
+
+
+
+
+
+##DataSource
+
+https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020
+
 Instructions on how to run our code and use our model will be added here later.
 
 ## Value
