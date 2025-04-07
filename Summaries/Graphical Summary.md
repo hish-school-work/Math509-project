@@ -1,12 +1,4 @@
-# Project Report: Predicting Tesla Stock Prices Using Tweet Sentiment
-
-## Introduction
-
-In the modern financial ecosystem, investor behavior and market reactions are increasingly influenced by real-time information streams, particularly from social media. Tesla, known for its volatile stock behavior and high media visibility—fueled in part by the public persona of its CEO Elon Musk—presents a compelling case for studying the relationship between public sentiment and stock price movements. This project was designed to rigorously evaluate whether and how the general sentiment expressed in social media, specifically Twitter, correlates with or predicts changes in Tesla's daily stock returns.
-
-Our central research question was: **"How does news sentiment affect stock prices?"** To answer this, we built a robust, multi-stage data science workflow that included collecting a large dataset of Tesla-related tweets, cleaning and processing the textual data, performing sentiment analysis, engineering features related to sentiment and market dynamics, and finally applying both inferential and predictive modeling strategies. We used linear regression to establish a baseline understanding of the sentiment-return relationship, Bayesian regression to capture parameter uncertainty and quantify effect credibility, and Random Forest modeling to enhance prediction by introducing nonlinearity and interactions between features.
-
-## Graphical Interpretations and Analysis
+# Graphical Analysis
 
 ### Sentiment Label Distribution Pie Chart
 This chart visualizes the distribution of sentiment categories—positive, neutral, and negative—based on daily tweet analysis over the five-year span from 2015 to 2019. The largest segment, approximately 41%, is composed of positive tweets, reflecting a generally optimistic tone in public sentiment regarding Tesla. Neutral tweets make up about 36% of the total, while negative tweets constitute the remaining 22%. This breakdown indicates that while Tesla enjoys substantial positive attention, there is still a significant amount of mixed and critical sentiment. From a financial modeling perspective, this sentiment distribution provides an important baseline, revealing how often the public mood aligns with or diverges from market optimism.

@@ -1,4 +1,5 @@
-# Project Report: Predicting Tesla Stock Prices Using Tweet Sentiment
+# Project Summary
+Predicting Tesla Stock Prices Using Tweet Sentiment
 
 ## Introduction
 
