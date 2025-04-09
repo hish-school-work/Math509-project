@@ -28,6 +28,9 @@ This project aims to understand if the general feeling (sentiment) expressed in 
 
 We will use financial news articles and historical stock price data. The specific sources and how often we get the data will be decided later. We will choose data that allows us to see both quick reactions to news and longer-term trends.
 
+- [Data Source](https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020)
+- [Yahoo Finance API](https://pypi.org/project/yfinance/)
+
 ## Methodology
 
 We will first process the news articles to determine their sentiment (positive, negative, or neutral). Then, we will use this sentiment data along with historical stock prices to build our prediction models. We plan to use Bayesian inference techniques for this.
@@ -50,5 +53,5 @@ This project will help us understand the relationship between news and stock mar
 
 ## Links
 
-- [Data Source](https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020)
+- [Project Presentation](https://docs.google.com/presentation/d/1mTmwBNXaZYiAOwtpZWaDzRt_niyEapqVCGChfm5iYck/edit?usp=sharing)
 - [Project Report](https://docs.google.com/document/d/19HqhXphxrTavz4ovUPFg78FtBndy4HIxald8Jt6RlTk/edit?usp=sharing)
